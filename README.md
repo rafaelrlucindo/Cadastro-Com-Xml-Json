@@ -42,7 +42,13 @@ rafaelrlucindo@gmail.com
 Desenvolvedor
 Whatsapp: 16.99292-7487
 
-[( cad1.png )](https://github.com/rafaelrlucindo/Cadastro-Com-Xml-Json/issues/1#issue-1263268204)]
+![cad1](https://user-images.githubusercontent.com/38261205/172386726-c1ca65f2-e036-4e43-bd04-6a2e1668aa50.png)
+![cad2](https://user-images.githubusercontent.com/38261205/172386728-0a0e6159-e2f4-48ee-8537-16bdab96eac5.png)
+![cad3](https://user-images.githubusercontent.com/38261205/172386733-5c175092-3811-42c0-9761-6f9929449be3.png)
+![cad4](https://user-images.githubusercontent.com/38261205/172386737-f3cccdc6-28df-4000-8896-a2138a30bf92.png)
+![cad5](https://user-images.githubusercontent.com/38261205/172386739-fec52042-d81c-49bd-afa8-3b3bf5900187.png)
+![cad6](https://user-images.githubusercontent.com/38261205/172386741-875d0b4d-837e-4211-9ae4-9f55d1cfc17f.png)
+![cad7](https://user-images.githubusercontent.com/38261205/172386742-187e6fac-9d5b-49ae-820b-d30ed7a399f2.png)
 
 
 
